@@ -111,9 +111,11 @@ a{
     display: flex;
     justify-content: center;
     padding-top: 1%;
-    
-    
+    transition: transform 3000ms ease 263ms;
 }
+#padre__footernav:hover {
+    transform: rotate(360deg) translate(0px, 0px);
+  }
 /*mobilestyles*/
 @media only screen and (max-width: 505px) {
     .padre{
