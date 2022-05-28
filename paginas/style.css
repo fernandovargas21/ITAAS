@@ -35,7 +35,7 @@ a{
     display: flex;
     justify-content: center;
     background: linear-gradient(180deg, #d99235, transparent);
-    transition: transform 300ms ease;
+    
 }
 /*nav*/
 .padre__nav{ 
